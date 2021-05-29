@@ -32,5 +32,14 @@ python manage.py runserver
 ```
 
 For Frontend:
-1. Open cmd in frontend directory and just run "npm install", this should start installing your dependencies
-2. After everything is done, run "npm start".
+1. Open cmd in frontend directory and just run, this should start installing your dependencies
+```
+npm install
+```
+2. After everything is done, run
+```
+npm start
+```
+
+
+![alt text](https://i.ibb.co/vLPkV0p/Screenshot-1.png)
