@@ -5,7 +5,7 @@ A fullstack Blogger app with frontend developed in "React" and backend made in "
 To run this on your local system: 
 ## Installation Steps
 
-###For Backend:
+### For Backend:
 1. Open up your Terminal / Command Line
 2. git clone the repository
 3. Open cmd in the backend directory
@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 python manage.py runserver
 ```
 
-###For Frontend:
+### For Frontend:
 1. Open cmd in frontend directory and just run, this should start installing your dependencies
 ```
 npm install
