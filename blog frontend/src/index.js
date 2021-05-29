@@ -7,7 +7,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { createStore } from 'redux'
 import reducer from './Components/Reducer/reducer'
 import {Provider} from 'react-redux'
-import { Container } from 'react-bootstrap';
 
 const initial = {
 	blogs: [],

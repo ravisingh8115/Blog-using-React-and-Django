@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { Container, Nav, Navbar, NavbarBrand, NavDropdown, NavItem, Row } from 'react-bootstrap'
+import { Nav, Navbar, NavbarBrand, NavDropdown, NavItem, Row } from 'react-bootstrap'
 import { connect } from 'react-redux'
 import {Link} from 'react-router-dom'
 import {FaUserAlt, FaUserCircle} from 'react-icons/fa'

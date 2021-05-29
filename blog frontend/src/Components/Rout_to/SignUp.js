@@ -1,7 +1,7 @@
 import React from 'react'
 import { useForm } from 'react-hook-form'
 import { connect } from 'react-redux'
-import { Col, Form, Button, Row, Container, Alert, Jumbotron } from 'react-bootstrap'
+import { Col, Form, Button, Row, Alert, Jumbotron } from 'react-bootstrap'
 import secureAxios from '../../secureAxios'
 
 function SignUp(props){

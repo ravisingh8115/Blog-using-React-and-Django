@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { Button, Card, Col, Container, Row, CardColumns, CardGroup, CardDeck } from 'react-bootstrap'
-import { RiDeleteBinLine } from 'react-icons/ri'
+import {CardColumns} from 'react-bootstrap'
 import secureAxios from '../../../secureAxios'
-import ShowMoreText from 'react-show-more-text'
 import  BlogRender from './BlogRender'
 
 class ViewBlogs extends Component {

@@ -15,14 +15,13 @@ import RefreshToken from './Components/Rout_to/RefreshToken';
 import MyBlogs from './Components/Rout_to/Blogs/myBlogs'
 import ImageTest from './Components/Rout_to/ImageTest'
 import BlogRender from './Components/Rout_to/Blogs/BlogRender'
-import {withRouter} from 'react-router-dom'
 
 
 class App extends Component {
 
-	constructor(props){
-		super(props)
-	}
+	// constructor(props){
+	// 	super(props)
+	// }
 
 	render() {
 		return (

@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import { connect } from 'react-redux'
 import { Link } from 'react-router-dom'
-import { Container,Jumbotron } from 'react-bootstrap'
+import {Jumbotron } from 'react-bootstrap'
 
 class Home extends Component{
     styles = {
